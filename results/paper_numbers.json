@@ -1,0 +1,73 @@
+{
+  "freeze_block": {
+    "base": 49819859,
+    "ethereum": 25729914
+  },
+  "deploy_block": {
+    "base": 41663783,
+    "ethereum": 24339873
+  },
+  "counts": {
+    "base": {
+      "registered": 61425,
+      "feedback": 451846,
+      "transfer": 80932,
+      "revoked": 82,
+      "validation_requests": 74,
+      "validation_responses": 68
+    },
+    "ethereum": {
+      "registered": 49613,
+      "feedback": 3215,
+      "transfer": 65732,
+      "revoked": 0
+    }
+  },
+  "window": {
+    "base": [
+      "2026-02-03",
+      "2026-08-11"
+    ],
+    "ethereum": [
+      "2026-01-29",
+      "2026-08-11"
+    ]
+  },
+  "base_live_feedback": 451764,
+  "distinct_tags": 575,
+  "tags_mixed_decimals": 20,
+  "reliability_decimals": [
+    0,
+    1,
+    2,
+    18
+  ],
+  "value_min_raw": -50,
+  "value_max_scaled": 1e+38,
+  "raw_gt_100": 3216,
+  "scaled_gt_100": 1641,
+  "scaled_lt_0": 26,
+  "scaled_in_range": 450097,
+  "distinct_raters": 12569,
+  "gini_rater": 0.968,
+  "top10_share": 57.49,
+  "top1_share": 10.59,
+  "largest_pair": 41331,
+  "largest_pair_rater": "0x561f2FC3d5b219cDA53B4753b8C37be78C7383e1",
+  "largest_pair_agent": 25975,
+  "rated_agents": 29645,
+  "median_reviewers": 1,
+  "p99_reviewers": 10,
+  "max_reviewers": 8926,
+  "max_reviewers_agent": 55985,
+  "max_reviewers_agent_records": 12306,
+  "base_owners": 15641,
+  "base_top_owner_agents": 10222,
+  "base_batch_registrations": 3993,
+  "base_max_per_tx": 40,
+  "validation_contracts": {
+    "validation_requests": 9,
+    "validation_responses": 9
+  },
+  "total_events": 712987
+}
