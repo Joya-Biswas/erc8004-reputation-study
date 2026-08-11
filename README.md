@@ -180,10 +180,4 @@ Registry they deferred, and implements and evaluates their recommendations.
 
 ---
 
-## TODO before making this public
 
-- [ ] Add a `LICENSE` file — nothing is chosen yet, so the repo currently
-      defaults to "all rights reserved". MIT or Apache-2.0 are the usual
-      choices for research code.
-- [ ] Add the manuscript and a citation entry once the paper has a venue.
-- [ ] Consider keeping this repository **private** until the paper is accepted.
