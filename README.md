@@ -8,7 +8,7 @@ Prior work asked whether ERC-8004's reputation score can be *trusted*. We ask
 whether it can be **read at all** — and we implement and evaluate the mitigations
 that prior work recommended but did not build.
 
-> **Status:** manuscript under preparation for submission and **not included
+> **Status:** manuscript is **not included
 > here**. This repository holds the collection, analysis and verification code,
 > the scarce datasets, and the results. The paper will be added once it has a
 > venue. Every figure below is reproducible from these scripts and validated
